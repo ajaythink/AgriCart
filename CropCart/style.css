@@ -1,0 +1,24 @@
+.c1{
+    background-color: #D6EFD8;
+}
+
+#i2
+{
+    background-color: #80AF81;
+}
+#i3
+{
+    background-color: #1A5319;
+}
+#i4
+{
+    background-color: #80AF81;
+    padding-top: 30px;
+}
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #eee;
+}
